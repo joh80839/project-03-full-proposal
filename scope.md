@@ -1,5 +1,5 @@
 **Project Purpose**
-The purpose of this project is to educate people on beginner-level information on how to fish from the shore.
+The purpose of this project is to present and describe two common fish beginners typically catch from freshwater shores.
 
 **Description**
 This project includes 2 pages worth of information. The website will have a homepage (index.html) and a second page (about.html), and both will be styled using a CSS style sheet.
