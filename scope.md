@@ -1,15 +1,18 @@
 **Project Purpose**
-The purpose of this project is to present and describe two common fish beginners typically catch from freshwater shores.
+The purpose of this project is to present and describe bluegill and pumpkinseed sunfish, two common fish that beginners typically catch from freshwater shores in the United States.
+
+This project is in a GitHub repository folder with other documentation that demonstrates PMUPM principles.
 
 **Description**
-This project includes 2 pages worth of information. The website will have a homepage (index.html) and a second page (about.html), and both will be styled using a CSS style sheet.
+This project includes two webpages' worth of information and markdown documentation. The website features a homepage (index.html) and a second page (about.html), and both are styled using a CSS style sheet. 
 
 **Desired Results**
 -A working two-page website.
--A structured GitHub repository that has all the files needed.
--Consistent styling across the webpages.
+-A structured GitHub repository with required files.
+-Consistent styling across webpages.
 
 **Exclusions**
+This project does not include:
 -JavaScript features.
 -Google Map integration features.
 -A Login system.
@@ -20,7 +23,7 @@ This project includes 2 pages worth of information. The website will have a home
 -Individual Feedback.
 
 **People Resources**
--The team will consist of one member. Part of the project will be reviewed by peer review, and the whole project will be reviewed by the stakeholder (instructor).
+-The team consists of one member. Part of the project was reviewed by a peer review, and the whole project was reviewed by the stakeholder (instructor).
 
 **Priorities**
 -Two functional webpages.
@@ -38,6 +41,9 @@ This project includes 2 pages worth of information. The website will have a home
 **Budget**
 The tools used in this were free. The tools used were HTML, CSS, GitHub, and VS Code.
 The highest cost is time.
+
+**Assumptions**
+-Bluegill and pumpkinseed fish are assumed to be common fish that are caught by beginners.
 
 **Acceptance Criteria**
 -Project Manager (myself) Approval
