@@ -9,7 +9,7 @@ The purpose of this project is to create a webpage that describes two common fis
 
 
 ## Website
-[Live Site](https://joh80839.github.io)
+[Live Site](https://joh80839.github.io/project-03-full-proposal/)
 
 
 
