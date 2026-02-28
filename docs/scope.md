@@ -1,9 +1,9 @@
-**Project Purpose**
+**Project Purpose:**
 The purpose of this project is to present and describe bluegill and pumpkinseed sunfish, two common fish that beginners typically catch from freshwater shores in the United States.
 
 This project is in a GitHub repository folder with other documentation that is used to demonstrate PMUPM principles.
 
-**Description**
+**Description:**
 This project includes two webpages' worth of information and markdown documentation. The website features a homepage (index.html) and a second page (about.html), and both are styled using a CSS style sheet. The second page can be accessed by clicking "Learn More" or "Click to Explore".
 
 **Desired Results**
@@ -39,7 +39,7 @@ This project does not include:
 - Good HTML structure.
 - No broken links to webpages.
 
-**Budget**
+**Budget:**
 The tools used in this were free. The tools used were HTML, CSS, GitHub, and VS Code.
 The highest cost is time.
 
