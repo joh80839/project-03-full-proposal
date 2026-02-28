@@ -25,6 +25,7 @@ body {
   margin: 20px auto;
   flex-direction: row;
   gap: 40px;
+  flex-wrap: wrap;
 }
 
 .fish {             
@@ -49,12 +50,7 @@ body {
   width: 400px;
   height: 200px;
   object-fit:cover;
-}
-
-.fish-2 img {
-  width: 400px;
-  height: 200px;
-  object-fit:cover;
+  flex-shrink: 0;
 }
 
 .explore {
