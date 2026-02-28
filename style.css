@@ -61,9 +61,8 @@ body {
 }
 
 header {
-  position: fixed;
-  left: 20px;
-  top: 20px;
+  margin-left: 0px;
+  margin-top: 0px;
   display: flex;
   flex-direction: row;
   gap: 20px;
