@@ -1,0 +1,106 @@
+body {
+    font-family: "Times New Roman";
+    background-color: #fafafa;
+    color: black;   
+    padding: 28px 16px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.fish-box {
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  flex-direction: row;
+  gap: 40px;
+}
+
+.fish {             
+  text-align: center;   
+}
+
+.fish p {             
+  text-align: right; 
+  font-size: 12px;  
+}
+
+.fish-2 {             
+  text-align: center;   
+}
+
+.fish-2 p {             
+  text-align: right;  
+  font-size: 12px;  
+}
+
+.fish img {
+  width: 400px;
+  height: 200px;
+  object-fit:cover;
+}
+
+.fish-2 img {
+  width: 400px;
+  height: 200px;
+  object-fit:cover;
+}
+
+.explore {
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;  
+  font-family: sans-serif; 
+}
+
+header {
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  font-family: sans-serif; 
+  
+}
+
+.header-2 {
+  left: 16px;
+  top: 16px;
+  font-family: sans-serif; 
+}
+.source-box {
+  margin-top: 48px;
+}
+
+.fish-info {
+  margin-top: 32px;
+  max-width: 800px;
+}
+
+.fish-pic p {
+  font-size: 12px;
+  max-width: 400px; 
+  text-align: right;  
+} 
+
+.fish-pic img {
+  width: 100%;
+  max-width: 400px;    
+  height: auto;
+  display: block;
+}
+
+.big-box {
+max-width: 1200px;
+margin: 0 auto;
+}
+
+
