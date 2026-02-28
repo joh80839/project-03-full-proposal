@@ -7,46 +7,46 @@ This project is in a GitHub repository folder with other documentation that is u
 This project includes two webpages' worth of information and markdown documentation. The website features a homepage (index.html) and a second page (about.html), and both are styled using a CSS style sheet. The second page can be accessed by clicking "Learn More" or "Click to Explore".
 
 **Desired Results**
--A working two-page website.
--A structured GitHub repository with required files.
--Consistent styling across webpages.
+- A working two-page website.
+- A structured GitHub repository with required files.
+- Consistent styling across webpages.
 
 **Exclusions**
 This project does not include:
--JavaScript features.
--Google Map integration features.
--A Login system.
+- JavaScript features.
+- Google Map integration features.
+- A Login system.
 
 **Feedback Loops**
--Instructor feedback.
--Peer feedback.
--Individual Feedback.
+- Instructor feedback.
+- Peer feedback.
+- Individual Feedback.
 
 **People Resources**
--The team consists of one member. Part of the project was reviewed by a peer review, and the whole project was reviewed by the stakeholder (instructor).
+- The team consists of one member. Part of the project was reviewed by a peer review, and the whole project was reviewed by the stakeholder (instructor).
 
 **Priorities**
--Two functional webpages.
--Consistent overall design.
--Markdown documentation 
--The project needs to be submitted on time.
+- Two functional webpages.
+- Consistent overall design.
+- Markdown documentation 
+- The project needs to be submitted on time.
 
 **Time**
--Writing the code, documentation, and testing will take some time. The project is due by March 1st.
+- Writing the code, documentation, and testing will take some time. The project is due by March 1st.
 
 **Quality**
--Consistent styling.
--Good HTML structure.
--No broken links to webpages.
+- Consistent styling.
+- Good HTML structure.
+- No broken links to webpages.
 
 **Budget**
 The tools used in this were free. The tools used were HTML, CSS, GitHub, and VS Code.
 The highest cost is time.
 
 **Assumptions**
--Bluegill and pumpkinseed fish are assumed to be common fish that are caught by beginners.
+- Bluegill and pumpkinseed fish are assumed to be common fish that are caught by beginners.
 
 **Acceptance Criteria**
--Project Manager (myself) Approval
--Peer Review Approval
--Stakeholder (Instructor) Approval
+- Project Manager (myself) Approval
+- Peer Review Approval
+- Stakeholder (Instructor) Approval
