@@ -25,7 +25,7 @@ body {
   margin: 20px auto;
   flex-direction: row;
   gap: 40px;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .fish {             
